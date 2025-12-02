@@ -44,6 +44,7 @@ Seaborn
 Scikit-learn
 
 -----Algorithms Used & Justification-----
+
 ✔ Decision Tree
 
 Simple, interpretable, works well for non-linear data, and requires minimal preprocessing.
